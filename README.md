@@ -4,6 +4,6 @@
 
 Passionné d'informatique depuis très jeune j'ai décidé de suivre cette voie en faisant un bac STI2D Option SIN, puis j'ai suivi une formation d'Intégrateur et Développeur Web (Diplôme Obtenu). Actuellement je suis une nouvelle formation intitulée Concepteur développeur d’applications pour approfondir mes connaissances.
 
-![Cedric FONSAT's GitHub stats](https://github-readme-stats.vercel.app/api?username=cedricfonsat&show_icons=true)
+![Cedric FONSAT's GitHub stats](https://github-readme-stats.vercel.app/api?username=cedricfonsat&show_icons=true&theme=radical)
 
 
