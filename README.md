@@ -22,7 +22,7 @@ Passionate about technology from a young age, I decided to pursue a career in th
 ### Projects
 ### [Rhum Piece](https://github.com/CedricFonsat/Rhum-Piece-Projet): Rhum Piece is a final year project that I developed during my studies. It is a web-based application for managing and tracking inventory.
 ### [Lecteur MP3](https://github.com/CedricFonsat/LecteurMP3): Lecteur MP3 is one of the many exercises that I completed during my training as a Web Developer.
-### Skills
+### :hammer_and_wrench: Skills
 ### HTML, CSS, and JavaScript
 ### Vue.js and React.js
 ### Node.js and Express.js
