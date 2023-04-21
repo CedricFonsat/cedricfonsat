@@ -5,6 +5,7 @@ Passionate about technology from a young age, I decided to pursue a career in th
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <div class="tenor-gif-embed" data-postid="23391673" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/brime-dev-updates-gif-23391673">Brime Dev Updates Sticker</a>from <a href="https://tenor.com/search/brime+dev+updates-stickers">Brime Dev Updates Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
 
 <div id="badges" align="center">
