@@ -3,6 +3,10 @@
 About Me
 Passionate about technology from a young age, I decided to pursue a career in the field by obtaining a Bac STI2D Option SIN and then completing a degree in Web Development and Integration. Currently, I am continuing to expand my knowledge and skills by pursuing a new program called "Application Developer Designer."
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 ### Projects
 ### [Rhum Piece](https://github.com/CedricFonsat/Rhum-Piece-Projet): Rhum Piece is a final year project that I developed during my studies. It is a web-based application for managing and tracking inventory.
 ### [Lecteur MP3](https://github.com/CedricFonsat/LecteurMP3): Lecteur MP3 is one of the many exercises that I completed during my training as a Web Developer.
