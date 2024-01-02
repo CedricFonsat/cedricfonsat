@@ -12,7 +12,7 @@ About Me Passionate about technology from a young age, I decided to pursue a car
 ### 📊 GitHub Stats:
 ![Cedric FONSAT's GitHub stats](https://github-readme-stats.vercel.app/api?username=cedricfonsat&show_icons=true&theme=radical&title_color=blue)
 
- LinkedIn: https://www.linkedin.com/in/cedricfonsat/
+ LinkedIn: https://www.linkedin.com/in/cedric-fonsat/
 
 
 
