@@ -7,7 +7,7 @@ About Me Passionate about technology from a young age, I decided to pursue a car
 [Lecteur MP3](https://github.com/CedricFonsat/LecteurMP3): Lecteur MP3 is one of the many exercises that I completed during my training as a Web <br/>
 ##
 ### 🚀  Stack: 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=stackoverflow,gcp,azure,react,tailwind,supabase,vercel,vscode,vite,symfony,github,electron&perline=3)](https://skillicons.dev)
 ##
 ### 📊 GitHub Stats:
 ![Cedric FONSAT's GitHub stats](https://github-readme-stats.vercel.app/api?username=cedricfonsat&show_icons=true&theme=radical&title_color=blue)
