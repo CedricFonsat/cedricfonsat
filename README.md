@@ -9,7 +9,7 @@
 [Collect7](https://github.com/CedricFonsat/col7_front): Collect7 is a marketplace of digital cards NFT <br/>
 [Lecteur MP3](https://github.com/CedricFonsat/LecteurMP3): Lecteur MP3 is one of the many exercises that I completed during my training as a Web <br/>
 
-🔗[LinkedIn](https://www.linkedin.com/in/cedric-fonsat/)
+🔗 [LinkedIn](https://www.linkedin.com/in/cedric-fonsat/)
 
 
 
