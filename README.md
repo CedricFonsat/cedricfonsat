@@ -1,5 +1,5 @@
 ### 🚀  Stack: 
-[![My Skills](https://skillicons.dev/icons?i=stackoverflow,react,tailwind,supabase,vercel,vscode,vite,symfony,github,electron)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=stackoverflow,react-native,tailwind,supabase,vercel,symfony,github,electron)](https://skillicons.dev)
 ##
 ### 📊 GitHub Stats:
 ![Cedric FONSAT's GitHub stats](https://github-readme-stats.vercel.app/api?username=cedricfonsat&show_icons=true&theme=radical&title_color=blue)
